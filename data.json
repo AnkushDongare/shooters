@@ -1,0 +1,112 @@
+[
+    {
+        "SrNo": 1,
+        "CompNo": 497,
+        "ShooterName": "SIDDHESH THORAT (MHPM1101200801MS)",
+        "School": "MUMBAI SUBURBAN",
+        "Series": [92.00, 92.00, 95.00, 93.00],
+        "Penalty": -0.00,
+        "Total": 372.00,
+        "Rank": "I",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 2,
+        "CompNo": 171,
+        "ShooterName": "SAGAR PATIL (MHPM0106198801MC)",
+        "School": "MRA",
+        "Series": [94.00, 95.00, 90.00, 91.00],
+        "Penalty": -0.00,
+        "Total": 370.00,
+        "Rank": "II",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 3,
+        "CompNo": 372,
+        "ShooterName": "TUSHAR GAUR (MHPM2504199101PU)",
+        "School": "PUNE",
+        "Series": [88.00, 94.00, 94.00, 92.00],
+        "Penalty": -0.00,
+        "Total": 368.00,
+        "Rank": "III",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 4,
+        "CompNo": 224,
+        "ShooterName": "UMAJI CHAVAN (MHRM2012199901TH)",
+        "School": "THANE",
+        "Series": [92.00, 89.00, 91.00, 95.00],
+        "Penalty": -0.00,
+        "Total": 367.00,
+        "Rank": "IV",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 5,
+        "CompNo": 191,
+        "ShooterName": "MANN SHAH (MHPM2604199901TH)",
+        "School": "THANE",
+        "Series": [88.00, 93.00, 93.00, 93.00],
+        "Penalty": -0.00,
+        "Total": 367.00,
+        "Rank": "V",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 6,
+        "CompNo": 271,
+        "ShooterName": "VARUN SALVI (MHPM2002200202PU)",
+        "School": "PUNE",
+        "Series": [90.00, 90.00, 88.00, 96.00],
+        "Penalty": -0.00,
+        "Total": 364.00,
+        "Rank": "VI",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 7,
+        "CompNo": 2,
+        "ShooterName": "ASHOK SATAM (MHPM2006198201TH)",
+        "School": "THANE",
+        "Series": [95.00, 90.00, 91.00, 88.00],
+        "Penalty": -0.00,
+        "Total": 364.00,
+        "Rank": "VII",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 8,
+        "CompNo": 595,
+        "ShooterName": "YOGESH JAMDADE (MHPM1807198701TH)",
+        "School": "THANE",
+        "Series": [95.00, 88.00, 94.00, 87.00],
+        "Penalty": -0.00,
+        "Total": 364.00,
+        "Rank": "VIII",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 9,
+        "CompNo": 241,
+        "ShooterName": "ANIKET PATIL (MHPM2601200001SG)",
+        "School": "SANGLI",
+        "Series": [90.00, 90.00, 92.00, 91.00],
+        "Penalty": -0.00,
+        "Total": 363.00,
+        "Rank": "IX",
+        "Rem": "C"
+    },
+    {
+        "SrNo": 10,
+        "CompNo": 234,
+        "ShooterName": "MUKESH VAGHELA (MHPM0403198801RG)",
+        "School": "RAIGAD",
+        "Series": [89.00, 91.00, 89.00, 93.00],
+        "Penalty": -0.00,
+        "Total": 362.00,
+        "Rank": "X",
+        "Rem": "C"
+    }
+]
