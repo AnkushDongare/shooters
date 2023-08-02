@@ -1,0 +1,113 @@
+[
+    {
+      "SrNo": 21,
+      "CompNo": 302,
+      "ShooterName": "SHIVRAJ PATIL (MHPM1409200201ST)",
+      "School": "SATARA",
+      "Series": [86.00, 90.00, 88.00, 88.00],
+      "Penalty": -0.00,
+      "Total": 352.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 22,
+      "CompNo": 435,
+      "ShooterName": "PRATIK GUND (MHPM0307200201PU)",
+      "School": "PUNE",
+      "Series": [86.00, 88.00, 86.00, 91.00],
+      "Penalty": -0.00,
+      "Total": 351.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 23,
+      "CompNo": 590,
+      "ShooterName": "RAJENDRA GAIKWAD (MHRM0810198301PU)",
+      "School": "PUNE",
+      "Series": [90.00, 92.00, 85.00, 84.00],
+      "Penalty": -0.00,
+      "Total": 351.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 24,
+      "CompNo": 498,
+      "ShooterName": "SATYAM SAWANT (MHPM2903199801PU)",
+      "School": "PUNE",
+      "Series": [89.00, 89.00, 92.00, 81.00],
+      "Penalty": -0.00,
+      "Total": 351.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 25,
+      "CompNo": 129,
+      "ShooterName": "PRANAV CHAVAN (MHPM1902199401NS)",
+      "School": "NASHIK",
+      "Series": [87.00, 82.00, 90.00, 91.00],
+      "Penalty": -0.00,
+      "Total": 350.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 26,
+      "CompNo": 551,
+      "ShooterName": "SUDESH PATIL (MHPM1903200201SG)",
+      "School": "SANGLI",
+      "Series": [82.00, 93.00, 88.00, 87.00],
+      "Penalty": -0.00,
+      "Total": 350.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 27,
+      "CompNo": 638,
+      "ShooterName": "SAURABH PAWAR (MHRM1908199701DH)",
+      "School": "DHULE",
+      "Series": [88.00, 85.00, 87.00, 89.00],
+      "Penalty": -0.00,
+      "Total": 349.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 28,
+      "CompNo": 9,
+      "ShooterName": "GAURAV THAKUR (MHPM0707200201RG)",
+      "School": "RAIGAD",
+      "Series": [84.00, 89.00, 88.00, 88.00],
+      "Penalty": -0.00,
+      "Total": 349.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 29,
+      "CompNo": 231,
+      "ShooterName": "MARUTI JAGZAPE (MHPM0901198701MC)",
+      "School": "MRA",
+      "Series": [86.00, 88.00, 87.00, 88.00],
+      "Penalty": -0.00,
+      "Total": 349.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 30,
+      "CompNo": 209,
+      "ShooterName": "NIKHIL MOHARIR (MHPM0404198102PU)",
+      "School": "PUNE",
+      "Series": [88.00, 85.00, 90.00, 86.00],
+      "Penalty": -0.00,
+      "Total": 349.00,
+      "Rank": "X",
+      "Rem": "C"
+    }
+  ]
+  

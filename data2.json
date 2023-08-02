@@ -1,0 +1,113 @@
+[
+    {
+      "SrNo": 11,
+      "CompNo": 379,
+      "ShooterName": "SUJIT DONGARJAL (MHPM2601198701PU)",
+      "School": "PUNE",
+      "Series": [90.00, 89.00, 91.00, 92.00],
+      "Penalty": -0.00,
+      "Total": 362.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 12,
+      "CompNo": 268,
+      "ShooterName": "DINESHKUMAR SHEEHAN (MHPM0811200701TH)",
+      "School": "THANE",
+      "Series": [91.00, 88.00, 89.00, 92.00],
+      "Penalty": -0.00,
+      "Total": 360.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 13,
+      "CompNo": 190,
+      "ShooterName": "ARJUN GHUGE (MHPM0106200401PU)",
+      "School": "PUNE",
+      "Series": [87.00, 89.00, 94.00, 90.00],
+      "Penalty": -0.00,
+      "Total": 360.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 14,
+      "CompNo": 289,
+      "ShooterName": "SAGAR KADAM (MHPM1510198301PU)",
+      "School": "PUNE",
+      "Series": [90.00, 89.00, 93.00, 88.00],
+      "Penalty": -0.00,
+      "Total": 360.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 15,
+      "CompNo": 217,
+      "ShooterName": "PRUUTHVIRAJ BHOSAALE (MHPM1702199801KL)",
+      "School": "KOLHAPUR",
+      "Series": [93.00, 90.00, 88.00, 87.00],
+      "Penalty": -0.00,
+      "Total": 358.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 16,
+      "CompNo": 353,
+      "ShooterName": "AKSHAY KAMBLE (MHPM2505199501MC)",
+      "School": "MUMBAI CITY",
+      "Series": [88.00, 92.00, 90.00, 87.00],
+      "Penalty": -0.00,
+      "Total": 357.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 17,
+      "CompNo": 8,
+      "ShooterName": "ASHOTOSH MOKAL (MHPM2810199401RG)",
+      "School": "RAIGAD",
+      "Series": [92.00, 92.00, 84.00, 87.00],
+      "Penalty": -0.00,
+      "Total": 355.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 18,
+      "CompNo": 422,
+      "ShooterName": "DATTATRAY KALE (MHPM0809198701NG)",
+      "School": "NAGPUR",
+      "Series": [89.00, 89.00, 87.00, 89.00],
+      "Penalty": -0.00,
+      "Total": 354.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 19,
+      "CompNo": 308,
+      "ShooterName": "SUMIT JANBANDHU (MHPM3001199101NG)",
+      "School": "NAGPUR",
+      "Series": [84.00, 92.00, 87.00, 90.00],
+      "Penalty": -0.00,
+      "Total": 353.00,
+      "Rank": "X",
+      "Rem": "C"
+    },
+    {
+      "SrNo": 20,
+      "CompNo": 501,
+      "ShooterName": "HET PATEL (MHPM2006199601TH)",
+      "School": "THANE",
+      "Series": [86.00, 85.00, 94.00, 88.00],
+      "Penalty": -0.00,
+      "Total": 353.00,
+      "Rank": "X",
+      "Rem": "C"
+    }
+  ]
+  
