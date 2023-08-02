@@ -27,17 +27,16 @@ app.get("/data3", (req, res) => {
 // Add more routes for other JSON files as needed.
 
 function readAndSendData(filename, res) {
-  // Read data from the JSON file and send it as a response
-  fs.readFile(filename, "utf8", (err, fileData) => {
-    if (err) {
-      console.error(`Error reading ${filename}:`, err);
-      res.status(500).send("Error reading data. Please try again later.");
-    } else {
-      const data = JSON.parse(fileData);
-      console.log(`Data loaded successfully from ${filename}`);
-      res.send(data);
-    }
-  });
+  try {
+    // Read data from the JSON file synchronously
+    const fileData = fs.readFileSync(filename, "utf8");
+    const data = JSON.parse(fileData);
+    console.log(`Data loaded successfully from ${filename}`);
+    res.send(data);
+  } catch (err) {
+    console.error(`Error reading ${filename}:`, err);
+    res.status(500).send("Error reading data. Please try again later.");
+  }
 }
 
 app.listen(port, () => {
