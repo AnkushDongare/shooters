@@ -11,26 +11,34 @@ app.use(cors());
 
 app.use(express.json());
 
-let data;
-// Read data from data.json file and store it in the data variable
-fs.readFile("data.json", "utf8", (err, fileData) => {
-  if (err) {
-    console.error("Error reading data.json:", err);
-  } else {
-    data = JSON.parse(fileData);
-    console.log("Data loaded successfully from data.json");
-  }
+// Routes
+app.get("/data1", (req, res) => {
+  readAndSendData("data1.json", res);
 });
 
-// Routes
-app.get("/", (req, res) => {
-  // Ensure data is loaded before sending the response
-  if (data) {
-    res.send(data);
-  } else {
-    res.status(500).send("Data is not available yet. Please try again later.");
-  }
+app.get("/data2", (req, res) => {
+  readAndSendData("data2.json", res);
 });
+
+app.get("/data3", (req, res) => {
+  readAndSendData("data3.json", res);
+});
+
+// Add more routes for other JSON files as needed.
+
+function readAndSendData(filename, res) {
+  // Read data from the JSON file and send it as a response
+  fs.readFile(filename, "utf8", (err, fileData) => {
+    if (err) {
+      console.error(`Error reading ${filename}:`, err);
+      res.status(500).send("Error reading data. Please try again later.");
+    } else {
+      const data = JSON.parse(fileData);
+      console.log(`Data loaded successfully from ${filename}`);
+      res.send(data);
+    }
+  });
+}
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
